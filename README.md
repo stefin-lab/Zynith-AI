@@ -56,3 +56,19 @@ Zynith-AI/
 ├── report.Rmd
 ├── README.md
 └── .gitignore
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](Screenshots/Screenshot%20(1).png)
+
+### Dataset Analysis
+![Dataset Analysis](Screenshots/Screenshot%20(2).png)
+
+### Data Visualization
+![Data Visualization](Screenshots/Screenshot%20(3).png)
+
+### Correlation Analysis
+![Correlation Analysis](Screenshots/Screenshot%20(4).png)
+
+### Outlier Detection
+![Outlier Detection](Screenshots/Screenshot%20(5).png)
